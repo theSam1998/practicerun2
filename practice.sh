@@ -9,3 +9,6 @@
 
 echo "you've done it, you get how to do this now"
 echo "sometimes stepping away is all it takes"
+echo "some changes to demonstrate learning to roommate"
+hostname
+whoami
